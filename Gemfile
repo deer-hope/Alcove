@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'rake', '~> 10.4'
+gem 'rake', '~> 12.3'
 gem 'colored', '~> 1.2'
 
 group :test do
